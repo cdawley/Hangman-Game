@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c4a8860-4cd4-4a21-81a3-905d263e5736" name="Default" comment="initial pages*" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="Powerball.html" pinned="false" current-in-tab="true">
+              <entry file="file://$USER_HOME$/Desktop/Powerball.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="185">
+                    <caret line="126" column="54" selection-start-line="126" selection-start-column="54" selection-end-line="126" selection-end-column="54" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="game.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[This items</find>
+      <find>game2</find>
+      <find>currentw</find>
+      <find>currentW</find>
+      <find>place</find>
+      <find>letters</find>
+      <find>&quot;letters</find>
+      <find>wrong-guess</find>
+      <find>#solve-</find>
+      <find>game.start</find>
+      <find>chancetext</find>
+      <find>wrongGuesses</find>
+      <find>wrongLetters</find>
+      <find>chancesrem</find>
+      <find>lettersRemaining</find>
+      <find>chance</find>
+      <find>game.remainingchances</find>
+      <find>console.log</find>
+      <find>console.</find>
+      <find>wordsunused</find>
+      <find>console</find>
+      <find>hangman</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>game</replace>
+      <replace>chancesRemaining</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Christian Dawley &lt;christian@art-box.us&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/assets/style.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/assets/starter-template.css" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/docwritevalues.html" />
+        <option value="$PROJECT_DIR$/create_line.js" />
+        <option value="$PROJECT_DIR$/hangman_pc2.md" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/game_test.html" />
+        <option value="$PROJECT_DIR$/game_layout.html" />
+        <option value="$PROJECT_DIR$/shelby_game.js" />
+        <option value="$PROJECT_DIR$/check_word.js" />
+        <option value="$PROJECT_DIR$/layout_css.html" />
+        <option value="$PROJECT_DIR$/assets/hangman_css.css" />
+        <option value="$PROJECT_DIR$/object.js" />
+        <option value="$PROJECT_DIR$/game2.js" />
+        <option value="$PROJECT_DIR$/assets/game-style.css" />
+        <option value="$USER_HOME$/Desktop/classwork_mar31/Unsolved/scope-quiz-unsolved.html" />
+        <option value="$USER_HOME$/Desktop/classwork_mar31/This/this-unsolved.html" />
+        <option value="$PROJECT_DIR$/bootstrap_wireframe.html" />
+        <option value="$PROJECT_DIR$/layout_bootstrap.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/game-style.css" />
+        <option value="$USER_HOME$/Desktop/Powerball.html" />
+        <option value="$PROJECT_DIR$/bootstrap_final.html" />
+        <option value="$PROJECT_DIR$/game.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="742" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hangman-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hangman-game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hangman-game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hangman-game" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cdawley/Development/projects/hangman-game/bootstrap_wireframe.html" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/images/" />
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.game.js">
+    <configuration name="check_word.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="check_word.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="create_line.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="create_line.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="game2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="$PROJECT_DIR$/game.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="game.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="game.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="object.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="object.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="shelby_game.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="shelby_game.js" working-dir="$PROJECT_DIR$" />
+    <list>
+      <item itemvalue="Node.js.game.js" />
+      <item itemvalue="Node.js.create_line.js" />
+      <item itemvalue="Node.js.game2.js" />
+      <item itemvalue="Node.js.shelby_game.js" />
+      <item itemvalue="Node.js.check_word.js" />
+      <item itemvalue="Node.js.object.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.game2.js" />
+        <item itemvalue="Node.js.object.js" />
+        <item itemvalue="Node.js.check_word.js" />
+        <item itemvalue="Node.js.shelby_game.js" />
+        <item itemvalue="Node.js.create_line.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4a8860-4cd4-4a21-81a3-905d263e5736" name="Default" comment="" />
+      <created>1521499794296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521499794296</updated>
+      <workItem from="1521499795844" duration="657000" />
+      <workItem from="1521516180287" duration="722000" />
+      <workItem from="1521519026658" duration="1600000" />
+      <workItem from="1521884855038" duration="5158000" />
+      <workItem from="1521948485827" duration="1182000" />
+      <workItem from="1522045991035" duration="7651000" />
+      <workItem from="1522054926467" duration="5339000" />
+      <workItem from="1522061534742" duration="4018000" />
+      <workItem from="1522066522559" duration="9106000" />
+      <workItem from="1522107772589" duration="87000" />
+      <workItem from="1522107877564" duration="87000" />
+      <workItem from="1522107986362" duration="8830000" />
+      <workItem from="1522199444884" duration="61388000" />
+      <workItem from="1522431749285" duration="573000" />
+      <workItem from="1522436496833" duration="15849000" />
+      <workItem from="1522475021214" duration="10705000" />
+      <workItem from="1522596960815" duration="19721000" />
+      <workItem from="1522724875806" duration="597000" />
+      <workItem from="1522733496437" duration="454000" />
+      <workItem from="1522783301354" duration="1494000" />
+      <workItem from="1522794656995" duration="11000" />
+      <workItem from="1522916378652" duration="2163000" />
+      <workItem from="1522923049594" duration="1053000" />
+      <workItem from="1522969065226" duration="1710000" />
+      <workItem from="1523001718404" duration="812000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial pages">
+      <created>1521499915941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521499915941</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial pages">
+      <created>1521519353182</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1521519353182</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="160967000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="742" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13423352" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.509375" side_tool="true" visible="true" weight="0.4051447" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.490625" weight="0.36630604" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49718875" weight="0.39876354" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="GfmBrowser" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13203125" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.490625" weight="0.36630604" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49718875" weight="0.39876354" />
+      <window_info anchor="right" id="GfmBrowser" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.509375" side_tool="true" visible="true" weight="0.36526945" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="initial pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial pages" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Powerball.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="126" column="54" selection-start-line="126" selection-start-column="54" selection-end-line="126" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="101" column="34" selection-start-line="101" selection-start-column="34" selection-end-line="101" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="35" selection-start-line="128" selection-start-column="35" selection-end-line="128" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_wireframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="29" lean-forward="true" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hangman.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap_final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3945">
+          <caret line="263" lean-forward="true" selection-start-line="263" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout_bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_wireframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="58" selection-start-line="50" selection-start-column="58" selection-end-line="50" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_wireframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_line.js" />
+    <entry file="file://$PROJECT_DIR$/game_test.html" />
+    <entry file="file://$PROJECT_DIR$/assets/starter-template.css" />
+    <entry file="file://$PROJECT_DIR$/game_test.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap_template.html" />
+    <entry file="file://$PROJECT_DIR$/assets/images/cdawley.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/script.js" />
+    <entry file="file://$PROJECT_DIR$/bootstrap_template.html" />
+    <entry file="file://$PROJECT_DIR$/assets/starter-template.css" />
+    <entry file="file://$PROJECT_DIR$/assets/style.css" />
+    <entry file="file://$PROJECT_DIR$/index_old.html" />
+    <entry file="file://$PROJECT_DIR$/contact.html" />
+    <entry file="file://$PROJECT_DIR$/portfolio.html" />
+    <entry file="file://$PROJECT_DIR$/game_test.html" />
+    <entry file="file://$PROJECT_DIR$/docwritevalues.html" />
+    <entry file="file://$PROJECT_DIR$/hangman_pc2.md" />
+    <entry file="file://$PROJECT_DIR$/hangman_pc.md" />
+    <entry file="file://$PROJECT_DIR$/03-js_homework.md.htm" />
+    <entry file="file://$PROJECT_DIR$/shelby_game.js" />
+    <entry file="file://$PROJECT_DIR$/check_word.js" />
+    <entry file="file://$PROJECT_DIR$/create_line.js" />
+    <entry file="file://$PROJECT_DIR$/assets/hangman_css.css" />
+    <entry file="file://$PROJECT_DIR$/object.js" />
+    <entry file="file://$PROJECT_DIR$/game_test.html" />
+    <entry file="file://$PROJECT_DIR$/layout_css.html" />
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/prisoner.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/game-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/noose.ico" />
+    <entry file="file://$USER_HOME$/Desktop/classwork_mar31/Unsolved/scope-quiz-unsolved.html" />
+    <entry file="file://$USER_HOME$/Desktop/classwork_mar31/This/this-unsolved.html" />
+    <entry file="file://$PROJECT_DIR$/layout_bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="128" column="35" selection-start-line="128" selection-start-column="35" selection-end-line="128" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_wireframe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="102" column="29" selection-start-line="102" selection-start-column="29" selection-end-line="102" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hangman.html" />
+    <entry file="file://$PROJECT_DIR$/game-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="7" column="461" selection-start-line="7" selection-start-column="461" selection-end-line="7" selection-end-column="461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/class_downloads/gitpages_README.md" />
+    <entry file="file://$USER_HOME$/Desktop/Powerball.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="126" column="54" selection-start-line="126" selection-start-column="54" selection-end-line="126" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_final.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="128" column="46" lean-forward="true" selection-start-line="128" selection-start-column="23" selection-end-line="128" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="48" column="25" lean-forward="true" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
